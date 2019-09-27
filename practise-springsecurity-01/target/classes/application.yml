@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: Spring Security练习1 Hello World
+
+  main:
+    banner-mode: 'OFF' # spring 默认会把off转换为Boolean类型的false所以需要把OFF生命为字符类型
+
+  thymeleaf:
+    cache: false
+    encoding: utf-8
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML5
+
+logging:
+  level:
+    org.springframework.web.servlet: debug
+    org.thymeleaf.spring5: debug
+    org.springframework.security: debug

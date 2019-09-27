@@ -1,1 +1,1 @@
-# practise-springsecurity
+# exercise-springsecurity
