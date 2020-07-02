@@ -47,7 +47,7 @@
 
     <properties>
         <lombok.verion>1.18.10</lombok.verion>
-        <mysql.verion>8.0.15</mysql.verion>
+        <mysql.verion>8.0.16</mysql.verion>
         <springboot.version>2.1.7.RELEASE</springboot.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
